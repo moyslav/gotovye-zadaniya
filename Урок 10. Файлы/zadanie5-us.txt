@@ -1,0 +1,4 @@
+From 2005 to 2012, Guido van Rossum was an employee of Google, where he created, among other things, the App Engine service. After that, he moved to Dropbox, having worked there for 6.5 years. In October 2019, van Rossum decided to retire. But van Rossum could not hold out for a long time in his new status.
+This was affected by his great diligence and desire to create. On Twitter, the Python creator announced that he had joined Microsoft's developer department.
+According to him, retirement is boring. He joined the company's team for numerous reasons, which he did not disclose. However, van Rossum stressed that his new place of work will certainly improve the use of Python.
+Guido van Rossum was the head of Python for almost 20 years, holding the post of "magnanimous dictator for life" there. All this time, he watched the development process, passing on his solutions for various tasks. In July 2018, he left his own project.
